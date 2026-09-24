@@ -1,2 +1,2 @@
-# connected-vehicle-intelligence-platform
-End-to-end connected vehicle analytics platform transforming telematics data into actionable insights on vehicle health, utilisation, alerts, and operational performance.
+# Automotive Fleet & Asset Intelligence Platform
+End-to-end automotive analytics platform integrating vehicle, fleet, dealership, market and asset data to deliver insights into fleet performance, vehicle utilisation, dealership operations and vehicle valuation.
